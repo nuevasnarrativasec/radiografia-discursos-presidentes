@@ -10,28 +10,28 @@ body{
 
 @font-face {
     font-family: 'prelo_slabbook';
-    src: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/discurso-dina-boluarte-2024/fonts/preloslab-book-webfont.woff2') format('woff2'),
-         url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/discurso-dina-boluarte-2024/fonts/preloslab-book-webfont.woff') format('woff');
+    src: url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/fonts/preloslab-book-webfont.woff2') format('woff2'),
+         url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/fonts/preloslab-book-webfont.woff') format('woff');
 }
 @font-face {
     font-family: 'prelo_slabmedium';
-    src: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/discurso-dina-boluarte-2024/fonts/preloslab-medium-webfont.woff2') format('woff2'),
-         url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/discurso-dina-boluarte-2024/fonts/preloslab-medium-webfont.woff') format('woff');
+    src: url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/fonts/preloslab-medium-webfont.woff2') format('woff2'),
+         url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/fonts/preloslab-medium-webfont.woff') format('woff');
 }
 @font-face {
     font-family: 'prelo_slabsemibold';
-    src: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/discurso-dina-boluarte-2024/fonts/preloslab-semibold-webfont.woff2') format('woff2'),
-         url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/discurso-dina-boluarte-2024/fonts/preloslab-semibold-webfont.woff') format('woff');
+    src: url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/fonts/preloslab-semibold-webfont.woff2') format('woff2'),
+         url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/fonts/preloslab-semibold-webfont.woff') format('woff');
 }
 @font-face {
     font-family: 'prelo_slabbold';
-    src: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/discurso-dina-boluarte-2024/fonts/preloslab-bold-webfont.woff2') format('woff2'),
-         url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/discurso-dina-boluarte-2024/fonts/preloslab-bold-webfont.woff') format('woff');
+    src: url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/fonts/preloslab-bold-webfont.woff2') format('woff2'),
+         url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/fonts/preloslab-bold-webfont.woff') format('woff');
 }
 @font-face {
     font-family: 'prelo_slabextrabold';
-    src: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/discurso-dina-boluarte-2024/fonts/preloslab-extrabold-webfont.woff2') format('woff2'),
-         url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/discurso-dina-boluarte-2024/fonts/preloslab-extrabold-webfont.woff') format('woff');
+    src: url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/fonts/preloslab-extrabold-webfont.woff2') format('woff2'),
+         url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/fonts/preloslab-extrabold-webfont.woff') format('woff');
 }
 
 .clear{
@@ -1311,25 +1311,25 @@ body{
             vertical-align: top;
         }
             .box-desplegables-portada .box-head .cara.cara-ollanta{
-                background: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/radiografia-discursos-presidentes/img/bg-cara-ollanta.png') no-repeat center center;
+                background: url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/img/bg-cara-ollanta.png') no-repeat center center;
                 background-size: 100%; 
                 height: 60px;
                 width: 60px;
             }
             .box-desplegables-portada .box-head .cara.cara-ppk{
-                background: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/radiografia-discursos-presidentes/img/bg-cara-ppk.png') no-repeat center center;
+                background: url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/img/bg-cara-ppk.png') no-repeat center center;
                 background-size: 100%; 
                 height: 60px;
                 width: 60px;
             }
             .box-desplegables-portada .box-head .cara.cara-vizcarra{
-                background: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/radiografia-discursos-presidentes/img/bg-cara-vizcarra.png') no-repeat center center;
+                background: url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/img/bg-cara-vizcarra.png') no-repeat center center;
                 background-size: 100%; 
                 height: 60px;
                 width: 60px;
             }
             .box-desplegables-portada .box-head .cara.cara-castillo{
-                background: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/radiografia-discursos-presidentes/img/bg-cara-castillo.png') no-repeat center center;
+                background: url('https://nuevasnarrativasec.github.io/radiografia-discursos-presidentes/img/bg-cara-castillo.png') no-repeat center center;
                 background-size: 100%; 
                 height: 60px;
                 width: 60px;
